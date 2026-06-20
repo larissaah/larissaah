@@ -2,8 +2,6 @@
 
 🎓 **Software Engineering Student**
 
-💻 Passionate about building modern websites and applications.
-
 🚀 Always exploring new technologies, improving my coding skills, and turning ideas into practical digital solutions.
 
 </div>
