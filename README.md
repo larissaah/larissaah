@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**larissaah/larissaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student**
 
-Here are some ideas to get you started:
+💻 Passionate about building modern websites and applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Always exploring new technologies, improving my coding skills, and turning ideas into practical digital solutions.
+
+</div>
+
+<h3 align="center">🎓 Estudante de Engenharia de Software</h3>
+
+<p align="center">
+Apaixonada por tecnologia e desenvolvimento de aplicações. Busco criar soluções eficientes, intuitivas e escaláveis para web e dispositivos móveis, enquanto aprimoro continuamente minhas habilidades em programação e desenvolvimento de software.
+</p>
